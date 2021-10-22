@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AquibFaiyaz
 - 👀 I’m interested in FullStack Web development
-- 🌱 I’m currently learning React and Node.js
+- 🌱 I’m currently learning React.js and Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aquibfaiyaz12@gmail.com
 
